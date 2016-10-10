@@ -1,0 +1,22 @@
+h1{
+    color: slategrey;
+}
+h3{
+    color: lightskyblue;
+}
+
+html, body {
+    height: 80%;
+    width: 80%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    margin-top: 100px;
+    vertical-align: middle;
+}
